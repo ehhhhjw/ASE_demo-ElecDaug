@@ -1,1 +1,4 @@
-The backend code of ElecDaug is developed by Flask, a lightweight web application framework, and its corresponding environment is configured in the configuration file
+The backend code of ElecDaug is developed by Flask, a lightweight web application framework.
+And its corresponding environment is configured in the configuration file.
+
+After configuring the corresponding package, you can run “python flask.py”.
