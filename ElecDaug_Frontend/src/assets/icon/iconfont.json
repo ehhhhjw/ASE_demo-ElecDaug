@@ -1,0 +1,30 @@
+{
+  "id": "2437933",
+  "name": "Sidebar",
+  "font_family": "fontSidebar",
+  "css_prefix_text": "el-icon-ump",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12723179",
+      "name": "波点面板",
+      "font_class": "pointcloud",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3745055",
+      "name": "声波",
+      "font_class": "radardata",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11748306",
+      "name": "雷达",
+      "font_class": "lidardata",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
