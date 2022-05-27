@@ -1,3 +1,18 @@
 Our ElecDaug tool has been deployed in the server, accessible at http://129.211.89.155:9010/, where 30data.json is an ElecDaug input data.
 If you want to reuse ElecDaug, you need to modify the path to the file in ElecDaug_Frontend/src/components/page and the front-end port, etc.
 In addition, you need to modify the path information and port number of ElecDaug_Frontend/flask.py.
+
+To run ElecDaug the following requirements need to be met.
+Operating Environment.
+- Hardware Environment: 
+	CPU: Dual-core AMD64 processor or equivalent x86-compatible processor
+	Memory: 8GB and above
+	Available disk space: 200GB and above
+- Software Environment.
+		Operating system: Windows 7 and above
+		Database: MySQL 8.0 and above, Redis 5.0 and above
+		Application software: Python 3.7
+Browser engine: we recommend using the latest version of chorme v8 browser engine
+
+
+Translated with www.DeepL.com/Translator (free version)
