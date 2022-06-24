@@ -1,4 +1,4 @@
-Our ElecDaug tool has been deployed in the server, accessible at http://129.211.89.155:9010/, where 30data.json is an ElecDaug input data. 
+Our ElecDaug tool has been deployed in the server, Because the server is under maintenance, the function is temporarily inaccessible, accessible at http://129.211.89.155:9010/, where 30data.json is an ElecDaug input data. 
 And users should preferably use a computer equipped with a Windows operating system to access it.
 If you want to reuse ElecDaug, you need to modify the path to the file in ElecDaug_Frontend/src/components/page and the front-end port, etc.
 In addition, you need to modify the path information and port number of ElecDaug_Frontend/flask.py.
